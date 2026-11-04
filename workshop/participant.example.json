@@ -1,0 +1,12 @@
+{
+  "participantId": "001",
+  "destination": "<your ADT destination>",
+  "parentPackage": "ZAI_DEMO",
+  "package": "ZAI001",
+  "objectPrefix": "ZAI001",
+  "generatorPrefix": "AI",
+  "generatorSuffix": "001",
+  "transportRequest": "<instructor-provided>",
+  "releasedObjectsTarget": "cloud-erp-private",
+  "target": "SAP S/4HANA (on-premise / private edition, Standard ABAP)"
+}

@@ -1,0 +1,14 @@
+# Participant-specific workshop configuration
+workshop/participant.json
+workshop/design-approved.md
+
+# Instructor-only material (not shared with participants)
+solution/
+instructor/
+evidence/
+demo/
+docs/
+
+# Local runtime artifacts
+.workshop-cache/
+.DS_Store

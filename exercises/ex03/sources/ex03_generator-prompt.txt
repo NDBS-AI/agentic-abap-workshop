@@ -1,0 +1,12 @@
+Booster prompt - use only if the developer needs a tighter generator request.
+
+Read workshop/participant.json and workshop/design-approved.md.
+Use the approved package and names exactly.
+
+Implement the approved managed RAP Service Request root entity.
+First discover the RAP generators actually available through ADT MCP and inspect the schema of the best matching generator.
+Prefer an official generator when it can create the baseline safely; otherwise create the required repository objects through supported ADT MCP operations.
+
+Do not create anything outside the participant package.
+After generation, check and activate the created objects.
+Do not add the custom AssignToMe/Resolve behavior yet; that is the next exercise.

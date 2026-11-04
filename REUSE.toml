@@ -1,0 +1,9 @@
+version = 1
+SPDX-PackageName = "sap-ai-agentic-abap-workshop"
+SPDX-PackageComment = "Community hands-on workshop material for agentic ABAP development. This repository is not an official SAP sample."
+
+[[annotations]]
+path = "**"
+precedence = "aggregate"
+SPDX-FileCopyrightText = "2026 Abdullah GÜNEŞ and contributors"
+SPDX-License-Identifier = "MIT"
